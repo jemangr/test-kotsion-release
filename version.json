@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "apkUrl": "https://github.com/jemangr/test-kotsion-release/releases/latest/download/test-kotsion.apk",
+  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.0.0",
+  "notes": "Initial v1.0.0 release: 4 horror & prank scenarios, real-time G-force/dB/face sensors, 9:16 split-screen video & PNG certificate, Party leaderboard & in-app update check."
+}
