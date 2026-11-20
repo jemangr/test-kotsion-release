@@ -1,11 +1,11 @@
-# Privacy Policy — Τεστ Κοτσιών (`test-kotsion`)
+# Privacy Policy — Έχεις Κότσια; (Do You Have the Guts?)
 
 **Effective Date:** November 20, 2026  
 **Developer:** Giannis Oikonomakis ([jemangr.app](https://jemangr.app/el/))
 
 ## 100% On-Device Sensors, Camera & Microphone
 
-**Τεστ Κοτσιών** processes all biometric signals and media strictly locally on your device.
+**Έχεις Κότσια; (Do You Have the Guts?)** (`app.jemangr.testkotsion`) processes all biometric signals and media strictly locally on your device.
 
 * **Camera & Microphone:** Used optionally during active test runs to measure decibel peaks, detect facial motion jumps, capture your peak reaction snapshot, and composite your 9:16 split-screen reaction video locally in browser/device memory. **No video, photo, or audio clip is ever uploaded to any server.**
 * **Motion Sensors:** Accelerometer and gyroscope events are analyzed locally in real time to compute hand tremor and flinch G-force.

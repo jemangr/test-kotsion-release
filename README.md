@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/icon-512.png" alt="Τεστ Κοτσιών — Icon" width="112" />
+<img src="./assets/icon-512.png" alt="Έχεις Κότσια; — Do You Have the Guts? Icon" width="112" />
 
-# 💀 Τεστ Κοτσιών *(Test Kotsion)*
+# 💀 Έχεις Κότσια; — Do You Have the Guts?
 
 **Ελληνικό Εργαστήριο Νεύρων & Αντίδρασης — Μετράει Τίναγμα (G-Force), Ουρλιαχτό (dB), Κάμερα & Βγάζει 9:16 Video για TikTok.**
 

@@ -1,4 +1,7 @@
-# Changelog — Τεστ Κοτσιών (`test-kotsion`)
+# Changelog — Έχεις Κότσια; (`Do You Have the Guts?`)
+
+## v1.2.1 (2026-11-20)
+* 🏷️ **Επίσημο Rebrand:** Μετονομασία της εφαρμογής σε **«Έχεις Κότσια; — Do You Have the Guts?»** (PWA, Android app label, κάρτα 9:16, split-screen watermark, GitHub showcase & Releases — διατηρώντας το σταθερό APK download `test-kotsion.apk` και το PWA path `/test-kotsion/`).
 
 ## v1.2.0 (2026-11-20)
 * 🤫 **Μηδέν Προειδοποιήσεις πριν το Jumpscare:** Κρυφό HUD (`REC`, `ΤΡΕΜ`, `dB`, `G`) & stealth κάμερα κατά τη δοκιμασία, χωρίς ηχητικό crescendo, glitches, blackouts ή spoilers — απόλυτη αντίθεση στην επίθεση.
