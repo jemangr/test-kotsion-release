@@ -1,5 +1,8 @@
 # Changelog — Έχεις Κότσια; (`Do You Have the Guts?`)
 
+## v1.2.2 (2026-11-20)
+* 🎨 **Custom Android Launcher, Adaptive & Splash Icons:** Αντικατάσταση των default εικονιδίων του Capacitor με το αυθεντικό εικονίδιο παλμού ECG σε όλα τα Android mipmap μεγέθη (`mdpi`–`xxxhdpi`), round/adaptive foreground & σκοτεινό `#07070A` splash screen.
+
 ## v1.2.1 (2026-11-20)
 * 🏷️ **Επίσημο Rebrand:** Μετονομασία της εφαρμογής σε **«Έχεις Κότσια; — Do You Have the Guts?»** (PWA, Android app label, κάρτα 9:16, split-screen watermark, GitHub showcase & Releases — διατηρώντας το σταθερό APK download `test-kotsion.apk` και το PWA path `/test-kotsion/`).
 
