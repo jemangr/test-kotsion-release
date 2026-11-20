@@ -1,5 +1,8 @@
 # Changelog — Έχεις Κότσια; (`Do You Have the Guts?`)
 
+## v1.2.3 (2026-11-20)
+* 👻 **Pass & Play Terror Promo Above the Fold:** Εμφάνιση της κάρτας **«👻 Pass & Play Terror»** ως βασικής πρότασης τρόμου στην οθόνη αποτελέσματος 100% ορατής **χωρίς scrolling** (μαζί με σκορ, mini preview κάρτας `🔍 9:16`, Αποθήκευση & Κοινοποίηση), καθώς και στο footer της εξαγόμενης 9:16 PNG κάρτας.
+
 ## v1.2.2 (2026-11-20)
 * 🎨 **Custom Android Launcher, Adaptive & Splash Icons:** Αντικατάσταση των default εικονιδίων του Capacitor με το αυθεντικό εικονίδιο παλμού ECG σε όλα τα Android mipmap μεγέθη (`mdpi`–`xxxhdpi`), round/adaptive foreground & σκοτεινό `#07070A` splash screen.
 

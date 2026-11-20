@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "tag": "v1.2.2",
+  "version": "1.2.3",
+  "tag": "v1.2.3",
   "apkUrl": "https://github.com/jemangr/test-kotsion-release/releases/latest/download/test-kotsion.apk",
-  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.2.2",
-  "notes": "v1.2.2: Custom Android launcher, adaptive & round icons + dark #07070A splash screens replacing default Capacitor placeholders."
+  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.2.3",
+  "notes": "v1.2.3: Featured «👻 Pass & Play Terror» cross-promo hero card guaranteed visible above the fold on result screen + PNG card footer."
 }
