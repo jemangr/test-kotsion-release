@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "tag": "v1.3.0",
+  "version": "1.3.1",
+  "tag": "v1.3.1",
   "apkUrl": "https://github.com/jemangr/test-kotsion-release/releases/latest/download/test-kotsion.apk",
-  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.3.0",
-  "notes": "v1.3.0: Added 2 disguised prank scenarios (Spot the 3 Differences + Hearing Age Hz Test) and direct disguise prank links (?mode=eye|diff|hearing)."
+  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.3.1",
+  "notes": "v1.3.1: Standalone zero-spoiler links (eye.html, diff.html, hearing.html, maze.html, basement.html, camera.html) for all 6 scenarios with clean Open Graph previews, native Android share sheet, per-card share button, and pre-scare home lock."
 }
