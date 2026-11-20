@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "tag": "v1.1.0",
+  "version": "1.2.0",
+  "tag": "v1.2.0",
   "apkUrl": "https://github.com/jemangr/test-kotsion-release/releases/latest/download/test-kotsion.apk",
-  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.1.0",
-  "notes": "v1.1.0: 4 photorealistic horror jumpscares, 2 atmospheric backgrounds & 4 loud rotating real screams (0ms attack)."
+  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.2.0",
+  "notes": "v1.2.0: Zero pre-scare warnings, 4 interactive focus mini-games (3-level maze, flashlight codes, lens focus, 3-step clinical eye test), 100% volume reminder & 9:16 card preview with native Save & Share."
 }

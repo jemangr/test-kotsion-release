@@ -28,16 +28,16 @@
       <sub><b>1. 4 Σενάρια &amp; Παρέα</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/screenshots/02-active-test-hud.png" alt="Ζωντανός Διάδρομος" /><br />
-      <sub><b>2. Live Telemetry</b></sub>
+      <img src="./assets/screenshots/02-active-test-hud.png" alt="Δοκιμασία Φακού" /><br />
+      <sub><b>2. Δοκιμασία Χωρίς Spoilers</b></sub>
     </td>
     <td align="center" width="20%">
       <img src="./assets/screenshots/03-scare-peak.png" alt="Στιγμή Σοκ" /><br />
       <sub><b>3. Στιγμή Σοκ</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="./assets/screenshots/04-result-rank.png" alt="Αποτέλεσμα & Rank" /><br />
-      <sub><b>4. Rank &amp; Πιστοποιητικό</b></sub>
+      <img src="./assets/screenshots/04-result-rank.png" alt="Κάρτα Αποτελέσματος" /><br />
+      <sub><b>4. Κάρτα · Save &amp; Share</b></sub>
     </td>
     <td align="center" width="20%">
       <img src="./assets/screenshots/05-party-leaderboard.png" alt="Κατάταξη Παρέας" /><br />
@@ -56,9 +56,9 @@
   2. **Ουρλιαχτό (dB):** Μετράει το ambient baseline και το peak κλάμα/φωνή στο σοκ.
   3. **Αντίδραση Προσώπου (Camera):** Ανιχνεύει απότομη κίνηση & κρατάει **Peak Reaction Snapshot**.
   4. **Τρέμουλο Αναμονής:** Μετράει πόσο τρέμεις *πριν* σκάσει η σκηνή.
-* **🎭 4 Σενάρια (Μαζί με Κρυφή Φάρσα):** `Κόκκινο Φως`, `Βήματα στο Υπόγειο`, `Κλήση στις 03:00` & `Κρυφή Φάρσα: Τεστ Όρασης 20/20` (ξεκινάει σαν αθώο οφθαλμολογικό τεστ!).
+* **🎭 4 Ενεργές Δοκιμασίες Συγκέντρωσης (Μηδέν Προειδοποιήσεις):** `Κόκκινο Φως (3-Level Maze)`, `Φακός στο Υπόγειο (4 Κωδικοί)`, `Κάμερα 03:00 (Εστίαση Φακού)` & `Κρυφή Φάρσα: Τεστ Όρασης 20/20` (3 κλινικά βήματα) — χωρίς κανένα HUD ή ηχητικό spoiler πριν το σοκ!
 * **💀 4 Φωτορεαλιστικά Jumpscares & 4 Εναλλασσόμενες Πραγματικές Κραυγές:** 4 αληθοφανείς εικόνες τρόμου με VHS slice glitch, zoom lunge & strobe flash, συνδυασμένες με 4 δυνατές, απότομες κραυγές (`0 ms` επίθεση) που αλλάζουν σε κάθε γύρο.
-* **🎬 Split-Screen 9:16 Video & PNG Πιστοποιητικό:** Έτοιμο για TikTok / Reels / Stories.
+* **🎴 Προεπισκόπηση Κάρτας 9:16, Save & Share (+ Split-Screen Video):** Άμεση προεπισκόπηση & ξεχωριστά κουμπιά **💾 Αποθήκευση** (Gallery / PNG) & **📤 Κοινοποίηση** για TikTok / Reels / Stories.
 * **👥 Solo & Παρέα (2–6 άτομα):** Στέφει τον **👑 Πιο Ψύχραιμο** και την **🐔 Κότα της Παρέας**.
 * **🔄 Έλεγχος για Νέα Έκδοση:** Αυτόματος & χειροκίνητος έλεγχος στο `test-kotsion-release` για άμεση ενημέρωση APK.
 
