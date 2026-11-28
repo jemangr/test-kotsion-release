@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "tag": "v1.4.0",
+  "version": "1.5.0",
+  "tag": "v1.5.0",
   "apkUrl": "https://github.com/jemangr/test-kotsion-release/releases/latest/download/test-kotsion.apk",
-  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.4.0",
-  "notes": "v1.4.0: Νομική προσαρμογή & συμμόρφωση WCAG 2.3.1. Ουδέτερη οθόνη προειδοποίησης σε όλα τα links, μείωση αναλαμπών και αφαίρεση έντονων κόκκινων φλας."
+  "releaseUrl": "https://github.com/jemangr/test-kotsion-release/releases/tag/v1.5.0",
+  "notes": "v1.5.0: 7th scenario (Biometric Scanner scan.html), custom prank title builder (?t=), 3D UI icons, ECG card, full bilingual EL+EN support, WCAG 2.3.1 compliance."
 }
